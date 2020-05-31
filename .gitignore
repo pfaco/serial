@@ -18,6 +18,7 @@ bin
 lib
 cpp
 */lib/*
+cmake
 installed
 patched
 wiped
